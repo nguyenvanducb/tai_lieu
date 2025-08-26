@@ -1,0 +1,22 @@
+1. mutex.Lock() : khóa (lock) một mutex nhằm đảm bảo rằng chỉ có một goroutine được quyền truy cập và thao tác trên dữ liệu chia sẻ tại một thời điểm
+Khi nhiều goroutine cùng đọc/ghi vào biến chung (shared state, ví dụ: map, slice, counter, batch buffer), sẽ có nguy cơ race condition → dữ liệu bị sai hoặc crash.
+mutex.Lock(): xin quyền truy cập, nếu đã có goroutine khác giữ lock thì goroutine hiện tại sẽ chờ.
+mutex.Unlock(): trả lại quyền truy cập để goroutine khác có thể dùng.
+✅ Tóm gọn:
+cm.mutex.Lock() = khóa dữ liệu trước khi dùng để tránh race condition.
+cm.mutex.Unlock() = mở khóa cho goroutine khác dùng.
+
+2. sync.RWMutex trong Go là một biến thể nâng cấp của sync.Mutex, cho phép nhiều goroutine có thể đọc song song (concurrent read), nhưng chỉ một goroutine được ghi (exclusive write)
+🔑 Ý nghĩa:
+RLock() / RUnlock() → dùng cho đọc dữ liệu.
+→ Nhiều goroutine có thể giữ RLock cùng lúc.
+Lock() / Unlock() → dùng cho ghi dữ liệu.
+→ Khi có 1 goroutine đang Lock để ghi, thì mọi đọc và ghi khác đều phải chờ.
+Đọc nhiều thì không sao → cho phép chạy song song.
+Ghi thì độc quyền → phải chặn hết để đảm bảo nhất quán.
+
+3. http.NewServeMux(): ServeMux là một bộ định tuyến (router) có nhiệm vụ ánh xạ (map) URL pattern tới các handler (hàm xử lý).
+mux (viết tắt của multiplexer) chính là bộ định tuyến
+Khi bạn gọi http.HandleFunc hoặc http.Handle, mặc định nó sẽ đăng ký route vào http.DefaultServeMux (một ServeMux toàn cục mà Go tạo sẵn).
+Nếu bạn gọi http.NewServeMux(), bạn sẽ tạo ra một ServeMux riêng biệt, tách biệt hoàn toàn với DefaultServeMux.
+HandleFunc là phương thức để đăng ký một route (đường dẫn URL) với một hàm xử lý (handler function).
