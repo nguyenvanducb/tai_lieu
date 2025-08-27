@@ -32,8 +32,11 @@ HandleFunc là phương thức để đăng ký một route (đường dẫn URL
 
 
 
-
-
+Parallelism: chạy thật sự đồng thời trên nhiều CPU core.
+Concurrency: tổ chức nhiều tác vụ để cùng tiến triển, dù có thể chỉ 1 core nhưng biết “switch” hợp lý.
+Concurrency = khả năng xử lý nhiều tác vụ "cùng lúc" (hoặc xen kẽ nhau) trong một hệ thống
+Nó không nhất thiết là song song (parallelism) → mà là quản lý nhiều công việc cùng tồn tại.
+Scale concurrency = khả năng hệ thống xử lý số lượng rất lớn tác vụ đồng thời mà vẫn ổn định, hiệu suất cao.
 
 Công cụ DevOps (Terraform, Prometheus, etc.).
 “Một ngôn ngữ hệ thống/infra, đơn giản, hiệu quả, dễ bảo trì, biên dịch cực nhanh.”
