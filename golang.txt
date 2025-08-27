@@ -21,6 +21,15 @@ Khi bạn gọi http.HandleFunc hoặc http.Handle, mặc định nó sẽ đăn
 Nếu bạn gọi http.NewServeMux(), bạn sẽ tạo ra một ServeMux riêng biệt, tách biệt hoàn toàn với DefaultServeMux.
 HandleFunc là phương thức để đăng ký một route (đường dẫn URL) với một hàm xử lý (handler function).
 
+4. if [statement]; [condition] {
+    // code khi condition == true
+}
+[statement]: một lệnh khởi tạo/biểu thức thực thi trước (scope chỉ tồn tại trong if).
+[condition]: biểu thức điều kiện trả về bool.
+if x := 10; x > 5 {
+    fmt.Println("x lớn hơn 5")
+}
+
 
 
 
