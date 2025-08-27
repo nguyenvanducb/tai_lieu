@@ -20,3 +20,20 @@ mux (viết tắt của multiplexer) chính là bộ định tuyến
 Khi bạn gọi http.HandleFunc hoặc http.Handle, mặc định nó sẽ đăng ký route vào http.DefaultServeMux (một ServeMux toàn cục mà Go tạo sẵn).
 Nếu bạn gọi http.NewServeMux(), bạn sẽ tạo ra một ServeMux riêng biệt, tách biệt hoàn toàn với DefaultServeMux.
 HandleFunc là phương thức để đăng ký một route (đường dẫn URL) với một hàm xử lý (handler function).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Công cụ DevOps (Terraform, Prometheus, etc.).
+“Một ngôn ngữ hệ thống/infra, đơn giản, hiệu quả, dễ bảo trì, biên dịch cực nhanh.”
