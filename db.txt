@@ -1,0 +1,13 @@
+DBMS (Database Management System) = Hệ quản trị cơ sở dữ liệu
+👉 Là phần mềm trung gian cho phép người dùng tạo, quản lý, truy xuất và cập nhật dữ liệu trong một cơ sở dữ liệu (Database).
+Nói dễ hiểu: thay vì bạn phải tự viết code quản lý file dữ liệu, DBMS lo hết cho bạn: lưu trữ, bảo mật, backup, truy vấn.
+
+🔹 Phân loại DBMS
+Relational DBMS (RDBMS) – quan hệ (dùng bảng)
+Ví dụ: MySQL, PostgreSQL, Oracle, SQL Server
+Ngôn ngữ: SQL
+NoSQL DBMS – phi quan hệ
+Ví dụ: MongoDB, Cassandra, Redis
+Dùng cho big data, dữ liệu phi cấu trúc.
+In-memory DBMS – dữ liệu lưu trực tiếp trong RAM
+Ví dụ: Redis, Memcached → tốc độ cực nhanh.
