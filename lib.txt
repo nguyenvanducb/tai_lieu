@@ -22,3 +22,4 @@ dependencies:
 
 
 flutter pub cache clean
+chỉ cần flutter clean -> xóa pubspec.lock
