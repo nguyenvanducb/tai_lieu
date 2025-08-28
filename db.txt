@@ -11,3 +11,16 @@ Ví dụ: MongoDB, Cassandra, Redis
 Dùng cho big data, dữ liệu phi cấu trúc.
 In-memory DBMS – dữ liệu lưu trực tiếp trong RAM
 Ví dụ: Redis, Memcached → tốc độ cực nhanh.
+
+Các thành phần của ACID
+A – Atomicity (Tính nguyên tử)
+Mọi giao dịch (transaction) được thực hiện toàn bộ hoặc không thực hiện gì cả.
+Ví dụ: chuyển tiền từ tài khoản A sang B: nếu trừ tiền A nhưng cộng tiền B thất bại → toàn bộ giao dịch rollback, không mất dữ liệu.
+C – Consistency (Tính nhất quán)
+Cơ sở dữ liệu luôn ở trạng thái hợp lệ trước và sau giao dịch.
+Ví dụ: số dư tài khoản không bao giờ âm (nếu quy định vậy), bất kể bao nhiêu transaction xảy ra đồng thời.
+I – Isolation (Tính cô lập)
+Các giao dịch khác nhau chạy đồng thời nhưng không ảnh hưởng lẫn nhau.
+Mỗi transaction như đang chạy độc lập, kết quả cuối cùng giống như chạy tuần tự.
+D – Durability (Tính bền vững)
+Khi giao dịch đã commit, dữ liệu được ghi vĩnh viễn, không mất dù hệ thống crash hoặc mất điện.
