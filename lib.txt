@@ -18,3 +18,7 @@ dependencies:
     git:
       url: https://github.com/your-username/my_container_lib.git
       ref: main  # hoặc tag version
+
+
+
+flutter pub cache clean
