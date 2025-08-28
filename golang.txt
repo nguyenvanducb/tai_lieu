@@ -49,3 +49,7 @@ Scale concurrency = khả năng hệ thống xử lý số lượng rất lớn 
 
 Công cụ DevOps (Terraform, Prometheus, etc.).
 “Một ngôn ngữ hệ thống/infra, đơn giản, hiệu quả, dễ bảo trì, biên dịch cực nhanh.”
+
+Data corruption (dữ liệu hỏng)
+Compile-time: là lúc biên dịch code thành chương trình thực thi (binary). Lỗi ở đây thường là syntax error, type error.
+Runtime: là lúc chương trình đang chạy (sau khi build xong). Lỗi ở đây gọi là runtime error (panic, nil pointer, concurrent map writes...).
