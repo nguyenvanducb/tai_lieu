@@ -1,0 +1,38 @@
+Google Compute Engine (GCE)
+Google Cloud Platform (GCP)
+GKE (Google Kubernetes Engine) l
+VPS (Virtual Private Server) là máy chủ ảo riêng 
+
+| Tên dịch vụ                      | Mô tả ngắn                                                                       |
+| -------------------------------- | -------------------------------------------------------------------------------- |
+| **Compute Engine**               | Máy chủ ảo (VM – Virtual Machine) giống như VPS, cài Linux/Windows tùy ý.        |
+| **Google Kubernetes Engine**     | Nền tảng quản lý **container (Docker)** dùng Kubernetes.                         |
+| **Cloud Run**                    | Chạy ứng dụng container **không cần quản lý server**, serverless.                |
+| **App Engine**                   | Nền tảng serverless chạy code (Node.js, Python, Go, Java...), auto scale.        |
+| **Cloud Functions**              | Chạy **hàm nhỏ** (function) như AWS Lambda – serverless, kích hoạt theo sự kiện. |
+| **TPU (Tensor Processing Unit)** | Chuyên xử lý AI/ML – nhanh hơn cả GPU.                                           |
+| **Bare Metal Solution**          | Máy chủ vật lý thật – dùng cho workload đặc biệt.                                |
+
+1. Google Cloud Platform (GCP)
+GCP là nền tảng điện toán đám mây của Google.
+Nó cung cấp toàn bộ dịch vụ cloud, bao gồm:
+Compute: máy ảo (GCE), Kubernetes (GKE), serverless (Cloud Run, Cloud Functions)
+Storage: Cloud Storage, Persistent Disk, Filestore
+Database: Cloud SQL, Firestore, BigQuery
+Networking: VPC, Load Balancer, Cloud CDN
+AI/ML, Security, DevOps Tools, …
+Nói ngắn gọn: GCP là toàn bộ hệ sinh thái cloud, không chỉ là máy ảo.
+2. Google Compute Engine (GCE)
+GCE là dịch vụ cung cấp máy ảo (VM) trên GCP.
+Cho phép bạn tạo và quản lý VM với nhiều OS, CPU/RAM, storage khác nhau.
+Tương đương với EC2 trên AWS.
+Ví dụ minh họa:
+Bạn muốn chạy app trên máy ảo, bạn dùng GCE.
+Bạn muốn chạy container: bạn dùng GKE.
+Bạn muốn serverless: bạn dùng Cloud Run.
+✅ Tóm lại:
+GCP = nền tảng cloud đầy đủ
+GCE = dịch vụ máy ảo (VM) trong GCP
+Nếu bạn muốn, mình có thể vẽ sơ đồ các dịch vụ compute chính trên GCP để bạn thấy sự khác nhau giữa GCE, GKE, Cloud Run, Cloud Functions. Bạn có muốn mình làm sơ đồ không?
+
+Công cụ DevOps (Terraform, Prometheus, etc.).
