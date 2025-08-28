@@ -1,0 +1,20 @@
+# Tạo package mới
+flutter create --template=package my_container_lib
+# Di chuyển vào thư mục
+cd my_container_lib
+
+
+
+
+
+library my_container_lib;
+export 'src/custom_container.dart';
+
+
+
+
+dependencies:
+  my_container_lib:
+    git:
+      url: https://github.com/your-username/my_container_lib.git
+      ref: main  # hoặc tag version
