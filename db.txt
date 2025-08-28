@@ -24,3 +24,4 @@ Các giao dịch khác nhau chạy đồng thời nhưng không ảnh hưởng l
 Mỗi transaction như đang chạy độc lập, kết quả cuối cùng giống như chạy tuần tự.
 D – Durability (Tính bền vững)
 Khi giao dịch đã commit, dữ liệu được ghi vĩnh viễn, không mất dù hệ thống crash hoặc mất điện.
+Nói gọn: ACID = đảm bảo dữ liệu luôn đúng, an toàn và bền vững, rất quan trọng cho DB dù là SQL hay NoSQL hiện đại.
