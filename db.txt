@@ -25,3 +25,13 @@ Mỗi transaction như đang chạy độc lập, kết quả cuối cùng giố
 D – Durability (Tính bền vững)
 Khi giao dịch đã commit, dữ liệu được ghi vĩnh viễn, không mất dù hệ thống crash hoặc mất điện.
 Nói gọn: ACID = đảm bảo dữ liệu luôn đúng, an toàn và bền vững, rất quan trọng cho DB dù là SQL hay NoSQL hiện đại.
+
+
+isar:
+C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-3.1.0+1\android\build.gradle 
+android {
+    namespace 'dev.isar.isar_flutter_libs'  // THÊM DÒNG NÀY
+    compileSdkVersion 31
+    
+    // ... phần còn lại giữ nguyên
+}
