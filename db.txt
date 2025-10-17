@@ -27,6 +27,11 @@ Khi giao dịch đã commit, dữ liệu được ghi vĩnh viễn, không mất
 Nói gọn: ACID = đảm bảo dữ liệu luôn đúng, an toàn và bền vững, rất quan trọng cho DB dù là SQL hay NoSQL hiện đại.
 
 
+
+
+
+
+
 isar:
 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-3.1.0+1\android\build.gradle 
 android {
