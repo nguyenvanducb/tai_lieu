@@ -1,0 +1,27 @@
+// ✅ Chỉ rebuild khi name thay đổi
+Selector<UserModel, String>(
+  selector: (context, user) => user.name, // Chọn field cần theo dõi
+  builder: (context, name, child) {
+    print('Rebuild only when name changes!');
+    return Text(name);
+  },
+)
+
+
+| Từ khóa     | Thời điểm cố định giá trị         | Ý nghĩa                                                                                  |
+| ----------- | --------------------------------- | ---------------------------------------------------------------------------------------- |
+| **`final`** | **Runtime** (lúc chạy)            | Gán một lần duy nhất, **không thay đổi** được sau đó                                     |
+| **`const`** | **Compile-time** (trước khi chạy) | Gán giá trị **ngay khi biên dịch**, tạo **đối tượng bất biến (immutable)** dùng lại được |
+
+const giúp tối ưu mạnh nhất, Flutter tạo widget này chỉ 1 lần duy nhất, 
+lưu trong compile-time constant pool,và tái sử dụng cùng một instance mỗi lần gặp lại.
+Khi Flutter so sánh widget tree trong quá trình rebuild,
+nếu widget là const, framework biết chắc chắn nó không đổi, nên bỏ qua việc so sánh sâu.
+→ Giảm số lượng widget phải build lại → UI mượt hơn, khung hình ổn định hơn.
+
+final cũng tối ưu, nhưng khác
+final chỉ ngăn thay đổi giá trị sau khi gán, chứ không tạo ra constant object.
+Mỗi lần chạy lại build(), nếu tạo lại final Text('Hello'), thì vẫn là object mới.
+→ Vẫn tốn thêm bộ nhớ và thời gian tạo object.
+Tuy nhiên, final giúp CPU tối ưu lookup và tránh thay đổi state không mong muốn,
+nên vẫn có lợi về logic và độ ổn định, dù không giảm RAM như const.
