@@ -1,0 +1,18 @@
+1. Cấp độ Tư duy & Kiến trúc
+| Chủ đề                         | Điều phải thuộc nằm lòng                                                   |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **Clean Code**                 | Viết code dễ đọc hơn là code ngắn. Một function = 1 nhiệm vụ.              |
+| **SOLID Principles**           | 5 nguyên tắc vàng: SRP, OCP, LSP, ISP, DIP.                                |
+| **Design Patterns**            | Biết ít nhất: Singleton, Factory, Repository, Observer, Adapter, Strategy. |
+| **Architecture Patterns**      | Nắm rõ MVC, MVVM, Clean Architecture, Microservices, Layered architecture. |
+| **Domain-Driven Design (DDD)** | Biết tách domain, entity, service, repository, aggregate.                  |
+
+2. Cấp độ Code & Refactor
+| Chủ đề                     | Bảng cửu chương tương ứng                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------- |
+| **Code Smell**             | Biết nhận ra “bad code smell”: God Class, Long Method, Duplicate Code, Feature Envy... |
+| **Refactoring Techniques** | Rename, Extract Method, Inline, Replace Temp with Query, Introduce Parameter Object... |
+| **Testing**                | Biết viết Unit Test, Mock, Stub, Integration Test.                                     |
+| **Error Handling**         | Không nuốt lỗi (`try/catch(e){}`), log đúng chỗ, có phân loại error.                   |
+
+3. Cấp độ System & Performance
