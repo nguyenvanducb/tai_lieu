@@ -16,3 +16,28 @@
 | **Error Handling**         | Không nuốt lỗi (`try/catch(e){}`), log đúng chỗ, có phân loại error.                   |
 
 3. Cấp độ System & Performance
+| Chủ đề            | Bảng cửu chương tương ứng                                        |
+| ----------------- | ---------------------------------------------------------------- |
+| **Concurrency**   | Hiểu thread-safe, async/await, deadlock, race condition.         |
+| **Caching**       | Memory cache, Redis, cache invalidation.                         |
+| **Database**      | Hiểu index, transaction, ACID, normalization vs denormalization. |
+| **Scalability**   | Load balancing, horizontal vs vertical scaling, message queue.   |
+| **Observability** | Logging, Metrics, Tracing, Alerting.                             |
+
+4. Cấp độ Team & Delivery
+| Chủ đề            | Bảng cửu chương tương ứng                                          |
+| ----------------- | ------------------------------------------------------------------ |
+| **Git Flow**      | Branch, PR, Rebase, Tag, Release.                                  |
+| **CI/CD**         | Build, Test, Deploy tự động, rollback an toàn.                     |
+| **Code Review**   | Biết nhận xét có tâm, có lý, không “bới móc”.                      |
+| **Documentation** | Viết README, API doc, comment rõ ràng.                             |
+| **Mentoring**     | Biết dẫn dắt junior, giải thích vì sao chứ không chỉ bảo “làm đi”. |
+
+5. Cấp độ Tư duy sản phẩm & kinh nghiệm
+| Chủ đề                 | Bảng cửu chương tương ứng                                               |
+| ---------------------- | ----------------------------------------------------------------------- |
+| **Problem Solving**    | Giải quyết vấn đề theo logic, không “patch tạm”.                        |
+| **Trade-off Thinking** | Hiểu cái gì cần tối ưu, cái gì chấp nhận “good enough”.                 |
+| **Security Awareness** | SQL Injection, XSS, CSRF, JWT, HTTPS.                                   |
+| **Domain Knowledge**   | Hiểu rõ lĩnh vực ứng dụng mình đang code (Fintech, Logistics, SaaS...). |
+| **Learning Mindset**   | Không tự mãn, luôn học thêm pattern, framework, ngôn ngữ mới.           |
