@@ -41,3 +41,24 @@
 | **Security Awareness** | SQL Injection, XSS, CSRF, JWT, HTTPS.                                   |
 | **Domain Knowledge**   | Hiểu rõ lĩnh vực ứng dụng mình đang code (Fintech, Logistics, SaaS...). |
 | **Learning Mindset**   | Không tự mãn, luôn học thêm pattern, framework, ngôn ngữ mới.           |
+
+
+Chi tiết: 
+🧱 Tổng quan SOLID:
+| Chữ cái | Tên đầy đủ                          | Tóm tắt ý nghĩa                                                                |
+| ------- | ----------------------------------- | ------------------------------------------------------------------------------ |
+| **S**   | **Single Responsibility Principle** | Mỗi class chỉ nên có **một lý do để thay đổi**.                                |
+| **O**   | **Open/Closed Principle**           | Mở để mở rộng, đóng để chỉnh sửa.                                              |
+| **L**   | **Liskov Substitution Principle**   | Class con **phải có thể thay thế** class cha mà không làm thay đổi hành vi.    |
+| **I**   | **Interface Segregation Principle** | Nhiều interface nhỏ tốt hơn 1 interface khổng lồ.                              |
+| **D**   | **Dependency Inversion Principle**  | Phụ thuộc vào **abstraction (interface)**, không phụ thuộc vào implementation. |
+
+| Nguyên tắc | Gợi nhớ                       | Tác dụng                  |
+| ---------- | ----------------------------- | ------------------------- |
+| **S**      | Một class – một việc          | Giảm rối, dễ bảo trì      |
+| **O**      | Mở rộng, không sửa cũ         | Dễ mở rộng, ít lỗi        |
+| **L**      | Con thay cha được             | Giữ đúng hành vi          |
+| **I**      | Interface nhỏ, đúng chức năng | Linh hoạt, dễ tái sử dụng |
+| **D**      | Code phụ thuộc interface      | Dễ thay thế, test dễ hơn  |
+
+
