@@ -61,4 +61,19 @@ Chi tiết:
 | **I**      | Interface nhỏ, đúng chức năng | Linh hoạt, dễ tái sử dụng |
 | **D**      | Code phụ thuộc interface      | Dễ thay thế, test dễ hơn  |
 
+❌ get_it không phải là Signal Pattern (hay Event/Observer Pattern).
+✅ get_it là một Service Locator Pattern, thuộc họ Dependency Injection (DI).
+get_it cung cấp một nơi trung tâm (container) để bạn:
+Đăng ký (register) các dependency (service, repository, config…)
+Truy xuất (locate) chúng từ bất kỳ nơi nào trong app mà không cần truyền qua constructor hoặc context
+
+| Tiêu chí                         | `get_it`                                    | Signal / Event / Observer                 |
+| -------------------------------- | ------------------------------------------- | ----------------------------------------- |
+| Mục đích                         | Cung cấp object, quản lý dependency         | Thông báo thay đổi, phát tín hiệu         |
+| Loại pattern                     | **Service Locator / DI**                    | **Observer / Reactive**                   |
+| Có reactive (thay đổi → update)? | ❌ Không                                     | ✅ Có                                      |
+| Cấu trúc                         | Map type → instance                         | Listeners / subscribers                   |
+| Sử dụng khi                      | Cần chia sẻ service, repository, manager... | Cần phản ứng khi có thay đổi dữ liệu      |
+| Ví dụ thực tế                    | `AuthService`, `DatabaseService`            | `ValueNotifier`, `Stream`, `Signal`, `Rx` |
+
 
