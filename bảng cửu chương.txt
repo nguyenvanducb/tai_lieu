@@ -77,3 +77,6 @@ Truy xuất (locate) chúng từ bất kỳ nơi nào trong app mà không cần
 | Ví dụ thực tế                    | `AuthService`, `DatabaseService`            | `ValueNotifier`, `Stream`, `Signal`, `Rx` |
 
 
+Riverpod không chỉ thay thế được GetIt hay DI Container,
+mà còn vượt trội hơn vì nó tích hợp DI + State management + Reactivity + Testability trong cùng một framework.
+
