@@ -53,3 +53,35 @@ Công cụ DevOps (Terraform, Prometheus, etc.).
 Data corruption (dữ liệu hỏng)
 Compile-time: là lúc biên dịch code thành chương trình thực thi (binary). Lỗi ở đây thường là syntax error, type error.
 Runtime: là lúc chương trình đang chạy (sau khi build xong). Lỗi ở đây gọi là runtime error (panic, nil pointer, concurrent map writes...).
+
+
+c *gin.Context đại diện cho một HTTP request hiện tại mà Gin đang xử lý
+Thông qua c, bạn có thể:
+    Lấy dữ liệu từ client (query, param, body, header…)
+    Gửi phản hồi (JSON, HTML, String, Redirect, v.v.)
+    Quản lý middleware (set/get dữ liệu context)
+    Dừng luồng xử lý (Abort, Next, …)
+    Lấy thông tin HTTP (IP, method, URL, status code, cookie…)
+
+
+import "strconv"
+| Hàm                               | Mô tả          | Ví dụ                     |
+| --------------------------------- | -------------- | ------------------------- |
+| `strconv.Atoi("123")`             | string → int   | ✅ `"123" → 123`           |
+| `strconv.Itoa(123)`               | int → string   | ✅ `123 → "123"`           |
+| `strconv.ParseInt("123", 10, 64)` | string → int64 | ✅ base 10, 64-bit integer |
+| `strconv.FormatInt(123, 10)`      | int64 → string | ✅ `"123"`                 |
+
+
+“scope” là phần không gian trong code mà một biến hoặc lệnh còn “hiệu lực”.
+Scope = phạm vi tồn tại của biến hoặc khối lệnh.
+
+
+Không phải lúc nào cũng nên dùng defer ngay đầu hàm.
+Bạn cần đặt defer ngay sau khi tài nguyên được tạo thành công,
+chứ không nhất thiết là ngay đầu function.
+
+| Hàm                    | Dùng khi                                                 | Đặc điểm                           |
+| ---------------------- | -------------------------------------------------------- | ---------------------------------- |
+| `context.Background()` | Khi bạn đang ở "root" (ví dụ `main`, `init`, test setup) | Context rỗng, không bao giờ bị hủy |
+| `context.TODO()`       | Khi bạn **chưa biết dùng context gì** (chờ bổ sung sau)  | Placeholder tạm thời               |
