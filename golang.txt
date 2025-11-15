@@ -85,3 +85,24 @@ chứ không nhất thiết là ngay đầu function.
 | ---------------------- | -------------------------------------------------------- | ---------------------------------- |
 | `context.Background()` | Khi bạn đang ở "root" (ví dụ `main`, `init`, test setup) | Context rỗng, không bao giờ bị hủy |
 | `context.TODO()`       | Khi bạn **chưa biết dùng context gì** (chờ bổ sung sau)  | Placeholder tạm thời               |
+
+Pointer = biến lưu ĐỊA CHỈ của một vùng nhớ, không phải bản thân dữ liệu
+x := 10
+p := &x   // p là pointer trỏ đến x
+
+Receiver = “đối tượng” mà một method thuộc về.
+Giống như this trong OOP.
+type StockManager struct {
+    count int
+}
+Có 2 loại receiver:
+(1) Value receiver: nhận bản COPY
+type StockManager struct {
+    count int
+}
+(2) Pointer receiver: nhận con trỏ (pointer)
+func (s *StockManager) Add() {
+    s.count++ // thay đổi trực tiếp bản gốc
+}
+
+

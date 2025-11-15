@@ -1,0 +1,1 @@
+_trades.addAll(orders.map((data) => TradeEntry.fromJson(data)).toList())
