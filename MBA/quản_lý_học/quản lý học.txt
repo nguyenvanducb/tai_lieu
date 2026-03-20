@@ -1,0 +1,188 @@
+TỔNG QUAN VỀ QUẢN LÝ
+│
+├── 1. Khái niệm & vai trò
+│   ├── Hệ thống xã hội
+│   │   ├── Tập hợp các yếu tố liên kết
+│   │   └── Tổ chức = hệ thống có mục tiêu
+│   │
+│   └── Quản lý
+│       └── Tác động có mục đích → đạt mục tiêu
+│
+├── 2. Nội dung quản lý
+│   ├── Yếu tố cơ bản
+│   │   ├── Chủ thể quản lý
+│   │   ├── Đối tượng quản lý
+│   │   ├── Mục tiêu
+│   │   └── Phương pháp – công cụ
+│   │
+│   ├── Quá trình quản lý
+│   │   ├── Lập kế hoạch
+│   │   ├── Tổ chức
+│   │   ├── Lãnh đạo
+│   │   └── Kiểm tra
+│   │
+│   └── Tiếp cận quản lý
+│       ├── Hệ thống xã hội
+│       ├── Khoa học – kỹ thuật
+│       └── Nghệ thuật
+│
+└── 3. Nhà quản lý
+    ├── Khái niệm & phân loại
+    │   ├── Cấp cao
+    │   ├── Cấp trung
+    │   └── Cấp cơ sở
+    │
+    ├── Vai trò
+    │   ├── Ra quyết định
+    │   ├── Điều phối
+    │   └── Kết nối thông tin
+    │
+    ├── Kỹ năng
+    │   ├── Chuyên môn
+    │   ├── Giao tiếp
+    │   └── Tư duy chiến lược
+    │
+    └── Học tập
+        └── Kiến thức + kỹ năng + kinh nghiệm
+		
+Nhớ công thức: “4 chức năng = Kế hoạch – Tổ chức – Lãnh đạo – Kiểm tra”
+Nhớ 3 kỹ năng: Chuyên môn – Con người – Tư duy
+
+Quản lý là sự tác động có mục đích, có tổ chức của chủ thể lên đối tượng để đạt mục tiêu.
+Đối tượng cơ bản của quản lý là hệ thống xã hội và tổ chức.
+Quá trình quản lý gồm 4 chức năng: kế hoạch, tổ chức, chỉ đạo, kiểm tra.
+Nhà quản lý là người điều hành hoạt động của tổ chức và chịu trách nhiệm về kết quả.
+Nhà quản lý cần có kiến thức, kỹ năng, kinh nghiệm và phẩm chất phù hợp.
+
+
+CHƯƠNG 2: TƯ TƯỞNG QUẢN LÝ
+│
+├── 1. Cổ đại
+│   ├── Trung Hoa
+│   │   ├── Khổng Tử → đạo đức
+│   │   └── Pháp gia → luật pháp
+│   │   ⇒ Đạo đức + kỷ luật
+│   │
+│   └── Phương Tây
+│       ├── Tổ chức nhà nước
+│       ├── Quân đội
+│       └── Phân công lao động
+│       ⇒ Quyền lực + tổ chức
+│
+├── 2. Cổ điển
+│   ├── Khoa học (Taylor)
+│   │   ├── Chuẩn hóa công việc
+│   │   └── Tăng năng suất
+│   │
+│   ├── Hành chính (Fayol)
+│   │   ├── Kế hoạch
+│   │   ├── Tổ chức
+│   │   ├── Chỉ huy
+│   │   ├── Phối hợp
+│   │   └── Kiểm tra
+│   │
+│   ├── Quan liêu (Weber)
+│   │   ├── Cơ cấu rõ ràng
+│   │   ├── Luật lệ
+│   │   └── Quy trình
+│   │
+│   └── Nhận xét
+│       ⇒ Khoa học nhưng ít chú ý con người
+│
+├── 3. Hành vi
+│   ├── Quan hệ con người (Mayo)
+│   │   ├── Tâm lý
+│   │   ├── Nhóm
+│   │   └── Động lực
+│   │
+│   ├── Hành vi
+│   │   ├── Nhu cầu (Maslow)
+│   │   ├── Động cơ
+│   │   └── Lãnh đạo
+│   │
+│   └── Nhận xét
+│       ⇒ Đề cao con người
+│
+└── 4. Hiện đại
+    ├── Định lượng
+    │   ├── Toán học
+    │   └── Dữ liệu
+    │
+    ├── Hệ thống
+    │   └── Tổ chức = hệ thống mở
+    │
+    ├── Văn hóa tổ chức
+    │   └── Giá trị, niềm tin
+    │
+    └── Tình huống
+        └── Linh hoạt theo hoàn cảnh
+
+Cổ đại → Cổ điển → Hành vi → Hiện đại
+
+Cổ đại → Luật + đạo đức
+Cổ điển → Khoa học + quy tắc
+Hành vi → Con người
+Hiện đại → Linh hoạt + hệ thống
+
+CHƯƠNG 3: MÔI TRƯỜNG QUẢN LÝ
+│
+├── 1. Môi trường quản lý
+│   ├── Khái niệm
+│   │   └── Các yếu tố ảnh hưởng đến quản lý
+│   │
+│   └── Tính phức tạp
+│       ├── Biến động
+│       ├── Nhiều yếu tố
+│       └── Khó dự đoán
+│
+├── 2. Môi trường quản lý tổ chức
+│   ├── Bên ngoài
+│   │   ├── Kinh tế
+│   │   ├── Chính trị – pháp luật
+│   │   ├── Xã hội
+│   │   ├── Công nghệ
+│   │   └── Thị trường
+│   │
+│   └── Bên trong
+│       ├── Nhân lực
+│       ├── Tài chính
+│       ├── Cơ cấu tổ chức
+│       ├── Văn hóa
+│       └── Cơ sở vật chất
+│
+└── 3. Phân tích môi trường quản lý
+    ├── Tầm quan trọng
+    │   └── Giúp ra quyết định đúng
+    │
+    ├── Mục tiêu
+    │   ├── Nhận diện cơ hội
+    │   └── Phát hiện thách thức
+    │
+    ├── Quy trình
+    │   ├── Thu thập thông tin
+    │   ├── Phân tích
+    │   ├── Đánh giá
+    │   └── Đưa ra quyết định
+    │
+    └── Kỹ thuật
+        ├── SWOT
+        ├── PEST
+        └── Dự báo
+		
+Môi trường = yếu tố ảnh hưởng
+2 loại = Trong + Ngoài
+Phân tích = tìm Cơ hội + Thách thức
+
+| Tiêu chí                  | **Môi trường bên trong**                                                                           | **Môi trường bên ngoài**                                                                    |
+| ------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Khái niệm**             | Các yếu tố **bên trong tổ chức**                                                                   | Các yếu tố **bên ngoài tổ chức**                                                            |
+| **Phạm vi**               | Nằm **trong tổ chức**                                                                              | Nằm **ngoài tổ chức**                                                                       |
+| **Mức độ kiểm soát**      | **Có thể kiểm soát được**                                                                          | **Khó hoặc không kiểm soát được**                                                           |
+| **Tính ổn định**          | Tương đối ổn định hơn                                                                              | Biến động, thay đổi nhanh                                                                   |
+| **Thành phần chính**      | - Nhân lực  <br> - Tài chính  <br> - Cơ cấu tổ chức  <br> - Văn hóa tổ chức  <br> - Cơ sở vật chất | - Kinh tế  <br> - Chính trị – pháp luật  <br> - Xã hội  <br> - Công nghệ  <br> - Thị trường |
+| **Ảnh hưởng**             | Ảnh hưởng **trực tiếp** đến hoạt động nội bộ                                                       | Ảnh hưởng **gián tiếp nhưng mạnh mẽ**                                                       |
+| **Vai trò trong quản lý** | Cơ sở để **tổ chức và vận hành**                                                                   | Cơ sở để **thích nghi và ra chiến lược**                                                    |
+| **Ví dụ**                 | Nhân viên yếu → hiệu quả giảm                                                                      | Khủng hoảng kinh tế → doanh thu giảm                                                        |
+👉 Bên trong = mình kiểm soát
+👉 Bên ngoài = mình phải thích nghi
+“Môi trường bên trong là các yếu tố nội tại có thể kiểm soát, còn môi trường bên ngoài là các yếu tố khách quan mà tổ chức phải thích nghi

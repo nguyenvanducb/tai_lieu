@@ -1,0 +1,215 @@
+1. Trình bày khái niệm kinh tế học. Phân biệt kinh tế học vi mô và kinh tế học vĩ mô
+
+	Kinh tế học là khoa học nghiên cứu cách con người và xã hội lựa chọn sử dụng các nguồn lực khan hiếm để sản xuất ra hàng hóa và dịch vụ, 
+	đồng thời phân phối chúng nhằm thỏa mãn nhu cầu ngày càng tăng của con người.
+
+	Phân biệt kinh tế học vi mô và vĩ mô:
+	Kinh tế học vi mô nghiên cứu hành vi của các chủ thể riêng lẻ như cá nhân, hộ gia đình và doanh nghiệp. 
+	Nó tập trung vào các vấn đề như cung – cầu, giá cả, thị trường và cách các chủ thể đưa ra quyết định kinh tế.
+
+	Kinh tế học vĩ mô nghiên cứu nền kinh tế trên phạm vi tổng thể. 
+	Nó xem xét các vấn đề lớn như tổng sản phẩm quốc nội (GDP), lạm phát, thất nghiệp và tăng trưởng kinh tế, đồng thời đưa ra các chính sách nhằm ổn định và phát triển nền kinh tế.
+
+2. Thế nào là nền kinh tế? Kể tên các thành viên kinh tế, họ có mục tiêu và hạn chế gì?
+
+	Nền kinh tế là tổng thể các hoạt động kinh tế của một quốc gia, bao gồm sản xuất, phân phối, trao đổi và tiêu dùng hàng hóa, dịch vụ nhằm thỏa mãn nhu cầu của con người.
+
+	Trong nền kinh tế có ba thành viên chủ yếu:
+	-Hộ gia đình: Là người tiêu dùng và cung cấp các yếu tố sản xuất (lao động). Mục tiêu của họ là tối đa hóa lợi ích (thỏa mãn nhu cầu), nhưng bị hạn chế bởi thu nhập và nguồn lực có hạn.
+	-Doanh nghiệp: Là đơn vị sản xuất và cung cấp hàng hóa, dịch vụ. Mục tiêu là tối đa hóa lợi nhuận, nhưng bị hạn chế bởi chi phí sản xuất, công nghệ và sự cạnh tranh trên thị trường.
+	-Chính phủ: Là cơ quan quản lý và điều tiết nền kinh tế. Mục tiêu là đảm bảo ổn định kinh tế, tăng trưởng và công bằng xã hội. Tuy nhiên, chính phủ bị hạn chế bởi ngân sách và nguồn lực quốc gia.
+
+3. Hãy trình bày ba vấn đề kinh tế cơ bản của các nền kinh tế. Các cơ chế kinh tế giải quyết ba vấn đề này như thế nào?
+	Mọi nền kinh tế đều phải giải quyết ba vấn đề cơ bản:
+	1.Sản xuất cái gì?
+	Xác định loại hàng hóa, dịch vụ nào cần sản xuất và số lượng bao nhiêu.
+	2.Sản xuất như thế nào?
+	Quyết định phương thức sản xuất, lựa chọn công nghệ và cách kết hợp các yếu tố sản xuất (lao động, vốn, tài nguyên).
+	3.Sản xuất cho ai?
+	Xác định đối tượng được hưởng hàng hóa, dịch vụ, tức là cách phân phối sản phẩm trong xã hội.
+	
+	Các cơ chế kinh tế giải quyết:
+		-Cơ chế thị trường:
+		Ba vấn đề được giải quyết thông qua quan hệ cung – cầu và giá cả trên thị trường. Doanh nghiệp và người tiêu dùng tự đưa ra quyết định.
+		-Cơ chế kế hoạch hóa tập trung:
+		Nhà nước quyết định toàn bộ việc sản xuất, phân phối và tiêu dùng.
+		-Cơ chế kinh tế hỗn hợp:
+		Kết hợp giữa thị trường và vai trò điều tiết của Nhà nước, vừa phát huy hiệu quả thị trường vừa đảm bảo công bằng xã hội.
+	
+4. Phân biệt kinh tế thực chứng và kinh tế chuẩn tắc. Cho ví dụ?
+	-Kinh tế thực chứng là lĩnh vực nghiên cứu nhằm mô tả và giải thích các hiện tượng kinh tế như chúng đang tồn tại trong thực tế. 
+	Các nhận định trong kinh tế thực chứng có thể được kiểm chứng bằng dữ liệu và thực nghiệm, do đó có thể xác định đúng hoặc sai.
+	
+	-Kinh tế chuẩn tắc là lĩnh vực đưa ra các quan điểm, đánh giá hoặc khuyến nghị về những gì nên xảy ra trong nền kinh tế. 
+	Những nhận định này mang tính chủ quan, phụ thuộc vào quan điểm và giá trị của người đưa ra.
+	
+	Ví dụ:
+	Nhận định thực chứng: “Tăng lãi suất sẽ làm giảm đầu tư.”
+	Nhận định chuẩn tắc: “Chính phủ nên tăng lãi suất để kiểm soát lạm phát.”
+
+5. Phương pháp nghiên cứu kinh tế học gồm những bước nào? Nêu nội dung cụ thể từng bước nghiên cứu?
+	Phương pháp nghiên cứu kinh tế học thường gồm các bước sau:
+	1.Đặt vấn đề nghiên cứu:
+	Xác định câu hỏi cần nghiên cứu, vấn đề kinh tế cần giải quyết.
+
+	2.Xây dựng giả thuyết:
+	Đưa ra các giả định hoặc dự đoán ban đầu về mối quan hệ giữa các biến kinh tế.
+
+	3.Thu thập và xử lý dữ liệu:
+	Thu thập số liệu từ thực tế (thống kê, khảo sát…) và xử lý để phục vụ phân tích.
+
+	4.Kiểm định giả thuyết:
+	Sử dụng các phương pháp phân tích (mô hình, thống kê…) để kiểm tra tính đúng đắn của giả thuyết.
+
+	5.Kết luận và đề xuất:
+	Rút ra kết luận từ kết quả nghiên cứu và đưa ra khuyến nghị hoặc chính sách phù hợp.
+	
+6. Phân biệt biến số danh nghĩa và biến số thực tế. Cho ví dụ?
+	Biến số danh nghĩa là các đại lượng kinh tế được đo lường theo mức giá hiện hành tại thời điểm tính toán, do đó chưa loại trừ ảnh hưởng của lạm phát. Vì vậy, chúng không phản ánh chính xác sức mua thực tế.
+	Biến số thực tế là các đại lượng đã được điều chỉnh theo mức giá (loại trừ lạm phát), phản ánh đúng giá trị và sức mua của nền kinh tế.
+
+	Ví dụ:
+	-	GDP danh nghĩa là tổng giá trị hàng hóa, dịch vụ tính theo giá hiện hành.
+	-	GDP thực tế là GDP đã điều chỉnh theo lạm phát, phản ánh đúng mức tăng trưởng kinh tế.
+	
+7. Khái niệm mô hình kinh tế? Các mô hình kinh tế có ưu và nhược điểm gì?
+	Mô hình kinh tế là công cụ lý thuyết được sử dụng để mô tả, giải thích và dự đoán các hiện tượng kinh tế thông qua việc đơn giản hóa thực tế bằng các giả định và mối quan hệ giữa các biến số.
+	Ưu điểm của mô hình kinh tế:
+		Giúp đơn giản hóa các vấn đề kinh tế phức tạp, từ đó dễ hiểu và dễ phân tích.
+		Hỗ trợ nghiên cứu, dự báo xu hướng và đưa ra quyết định kinh tế.
+		Cho phép kiểm tra các giả thuyết và mối quan hệ giữa các biến số.
+	Nhược điểm của mô hình kinh tế:
+		Do dựa trên các giả định nên không phản ánh đầy đủ và chính xác thực tế.
+		Kết quả phân tích có thể sai lệch nếu giả định không phù hợp.
+		Không thể dự đoán hoàn toàn chính xác các biến động của nền kinh tế.
+		
+8. Chi phí cơ hội là gì? Cho ví dụ minh họa
+	Chi phí cơ hội là giá trị của cơ hội tốt nhất bị từ bỏ khi một cá nhân hoặc tổ chức đưa ra quyết định lựa chọn giữa các phương án khác nhau. 
+   Do nguồn lực có hạn, việc chọn một phương án đồng nghĩa với việc phải từ bỏ phương án khác.
+   Ví dụ:
+	Một sinh viên có thể đi làm kiếm 5 triệu đồng/tháng nhưng lại chọn đi học đại học. Khi đó, chi phí cơ hội của việc đi học là 5 triệu đồng/tháng mà sinh viên đó có thể kiếm được nếu đi làm.
+	
+9. Trình bày quy luật chi phí cơ hội tăng dần và minh họa bằng đường giới hạn khả năng sản xuất
+	Quy luật chi phí cơ hội tăng dần cho rằng khi một nền kinh tế chuyển dịch nguồn lực để sản xuất thêm một loại hàng hóa, thì chi phí cơ hội (tức là số lượng hàng hóa khác phải từ bỏ) sẽ ngày càng tăng.
+	Nguyên nhân là do các nguồn lực không đồng nhất và không thể thay thế hoàn hảo cho nhau. Khi chuyển nguồn lực từ sản xuất hàng hóa này sang hàng hóa khác, hiệu quả sử dụng nguồn lực sẽ giảm dần.
+	Minh họa bằng đường giới hạn khả năng sản xuất (PPF):
+	-	PPF biểu diễn các mức sản lượng tối đa của hai loại hàng hóa mà nền kinh tế có thể sản xuất khi sử dụng hết nguồn lực.
+	-	Do chi phí cơ hội tăng dần, đường PPF có dạng cong lồi ra ngoài (lõm vào gốc tọa độ).
+	-	Độ dốc của đường PPF thể hiện chi phí cơ hội.
+	Ví dụ:
+	Khi chuyển từ sản xuất lúa sang sản xuất vải:
+	Ban đầu hy sinh ít lúa để có thêm vải
+	Nhưng càng sản xuất nhiều vải, phải hy sinh ngày càng nhiều lúa
+	
+10. Trình bày nguyên tắc phân tích cận biên trong lựa chọn kinh tế.
+	Nguyên tắc phân tích cận biên là nguyên tắc cho rằng các quyết định kinh tế được đưa ra dựa trên việc so sánh giữa lợi ích cận biên (lợi ích tăng thêm khi thực hiện thêm một đơn vị hoạt động) và chi phí cận biên (chi phí tăng thêm của đơn vị đó).
+	Theo nguyên tắc này:
+		Nếu lợi ích cận biên lớn hơn hoặc bằng chi phí cận biên (MB ≥ MC) thì nên tiếp tục thực hiện hoạt động.
+		Nếu lợi ích cận biên nhỏ hơn chi phí cận biên (MB < MC) thì nên dừng lại.
+	Nguyên tắc này giúp các cá nhân và doanh nghiệp đưa ra quyết định tối ưu nhằm tối đa hóa lợi ích hoặc lợi nhuận.
+	Ví dụ:
+	Một doanh nghiệp sản xuất thêm 1 sản phẩm:
+	Thu thêm 100 nghìn (MB)
+	Tốn thêm 80 nghìn (MC) → nên sản xuất
+	Nếu tốn 120 nghìn → không nên sản xuất
+	
+	
+Chương 2: Cung - cầu
+
+1. Phân biệt “cầu” và “lượng cầu” đối với hàng hóa
+	Cầu (Demand):
+	Là mối quan hệ giữa giá của hàng hóa và lượng hàng mà người tiêu dùng sẵn sàng và có khả năng mua trong một khoảng thời gian nhất định, giữ các yếu tố khác không đổi.
+	→ Được biểu diễn bằng đường cầu.
+	Lượng cầu (Quantity demanded):
+	Là số lượng cụ thể của hàng hóa mà người tiêu dùng muốn mua tại một mức giá xác định.
+	→ Là một điểm trên đường cầu.
+	Tóm lại:
+	Cầu = toàn bộ mối quan hệ (cả đường).
+	Lượng cầu = một giá trị cụ thể tại một mức giá (một điểm).
+	
+2. Trình bày các nhân tố ảnh hưởng đến cầu hàng hóa
+	Cầu hàng hóa phụ thuộc vào nhiều yếu tố, không chỉ riêng giá. Các nhân tố chính gồm:
+	1.Giá của chính hàng hóa đó
+		Giá tăng → lượng cầu giảm
+		Giá giảm → lượng cầu tăng
+	2.Thu nhập của người tiêu dùng
+		Hàng hóa thông thường: thu nhập tăng → cầu tăng
+		Hàng hóa thứ cấp: thu nhập tăng → cầu giảm
+	3.Giá của hàng hóa liên quan
+		Hàng hóa thay thế: giá hàng A tăng → cầu hàng B tăng
+		Hàng hóa bổ sung: giá hàng A tăng → cầu hàng B giảm
+	4.Thị hiếu, sở thích người tiêu dùng
+		Sở thích tăng → cầu tăng
+		Sở thích giảm → cầu giảm
+	5.Kỳ vọng của người tiêu dùng
+		Kỳ vọng giá sẽ tăng → mua nhiều hơn hiện tại → cầu tăng
+		Kỳ vọng thu nhập thay đổi cũng ảnh hưởng đến cầu
+	6.Quy mô và cơ cấu dân số
+		Dân số tăng → cầu tăng
+		Cơ cấu dân số (tuổi, giới tính…) cũng ảnh hưởng loại hàng hóa được tiêu dùng
+	👉 Kết luận:
+	Cầu không chỉ phụ thuộc vào giá mà còn chịu tác động của nhiều yếu tố khác; khi các yếu tố này thay đổi sẽ làm dịch chuyển đường cầu.
+	
+3. Phân biệt “cung” và “lượng cung” đối với hàng hóa
+	Cung (Supply):
+	Là mối quan hệ giữa giá của hàng hóa và lượng hàng mà người sản xuất sẵn sàng và có khả năng bán trong một khoảng thời gian nhất định, khi các yếu tố khác không đổi.
+	→ Được biểu diễn bằng đường cung.
+
+	Lượng cung (Quantity supplied):
+	Là số lượng cụ thể hàng hóa mà người bán sẵn sàng bán tại một mức giá xác định.
+	→ Là một điểm trên đường cung.
+
+	Tóm lại:
+	Cung = toàn bộ mối quan hệ (cả đường cung).
+	Lượng cung = một giá trị cụ thể tại một mức giá (một điểm trên đường cung).
+	
+4. Trình bày các nhân tố ảnh hưởng đến cung hàng hóa
+	Cung hàng hóa phụ thuộc vào nhiều yếu tố, không chỉ riêng giá. Các nhân tố chính gồm:
+	1.Giá của chính hàng hóa đó
+	Giá tăng → lượng cung tăng
+	Giá giảm → lượng cung giảm
+	2.Chi phí sản xuất (giá các yếu tố đầu vào)
+	Chi phí tăng → cung giảm
+	Chi phí giảm → cung tăng
+	3.Công nghệ sản xuất
+	Công nghệ cải tiến → năng suất tăng → cung tăng
+	4.Giá của hàng hóa liên quan trong sản xuất
+	Nếu chuyển sang sản xuất hàng khác có lợi hơn → cung hàng hiện tại giảm
+	5.Kỳ vọng của nhà sản xuất
+	Kỳ vọng giá tương lai tăng → có thể giảm cung hiện tại (giữ hàng lại)
+	Ngược lại → cung hiện tại tăng
+	6.Số lượng người bán (quy mô thị trường)
+	Nhiều người bán hơn → cung tăng
+	Ít người bán → cung giảm
+	7.Chính sách của Nhà nước (thuế, trợ cấp, quy định)
+	Thuế tăng → cung giảm
+	Trợ cấp → cung tăng
+	👉 Kết luận:
+	Khi các yếu tố ngoài giá thay đổi sẽ làm dịch chuyển đường cung (tăng hoặc giảm).
+	
+5. Phân biệt sự thay đổi của cầu với sự thay đổi của lượng cầu
+	1. Sự thay đổi của lượng cầu (Change in quantity demanded):
+		-Là sự thay đổi số lượng hàng hóa được mua khi giá của chính hàng hóa đó thay đổi, các yếu tố khác giữ nguyên.
+		-Thể hiện bằng sự di chuyển dọc theo đường cầu.
+		-Nguyên nhân: do giá hàng hóa thay đổi.
+	Ví dụ: Giá điện thoại giảm → người tiêu dùng mua nhiều hơn → lượng cầu tăng.
+	
+	2. Sự thay đổi của cầu (Change in demand):
+		-Là sự thay đổi toàn bộ cầu, làm cho đường cầu dịch chuyển sang trái hoặc phải.
+		-Nguyên nhân: do các yếu tố ngoài giá thay đổi như: thu nhập, sở thích, giá hàng liên quan, kỳ vọng…	
+	👉 Ví dụ: Thu nhập tăng → cầu về quần áo tăng → đường cầu dịch chuyển sang phải.
+	
+6. Phân biệt sự thay đổi của cung với sự thay đổi của lượng cung
+	1. Sự thay đổi của lượng cung (Change in quantity supplied):
+		Là sự thay đổi số lượng hàng hóa được bán khi giá của chính hàng hóa đó thay đổi, các yếu tố khác không đổi.
+		Thể hiện bằng sự di chuyển dọc theo đường cung.
+		Nguyên nhân: do giá hàng hóa thay đổi.
+	Ví dụ: Giá gạo tăng → người bán cung nhiều hơn → lượng cung tăng.
+	
+	2. Sự thay đổi của cung (Change in supply):
+		Là sự thay đổi toàn bộ cung, làm cho đường cung dịch chuyển sang trái hoặc phải.
+		Nguyên nhân: do các yếu tố ngoài giá như: chi phí sản xuất, công nghệ, thuế, trợ cấp, số lượng người bán…
+	Ví dụ: Công nghệ sản xuất tốt hơn → cung tăng → đường cung dịch chuyển sang phải.
+	Tóm lại:
+		Lượng cung thay đổi → do giá → di chuyển trên đường cung
+		Cung thay đổi → do yếu tố ngoài giá → dịch chuyển đường cung
