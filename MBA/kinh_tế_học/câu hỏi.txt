@@ -213,3 +213,16 @@ Chương 2: Cung - cầu
 	Tóm lại:
 		Lượng cung thay đổi → do giá → di chuyển trên đường cung
 		Cung thay đổi → do yếu tố ngoài giá → dịch chuyển đường cung
+
+Câu 8: Phân tích tác động của chính sách giá trần và giá sàn của chính phủ
+	1. Giá trần (Price ceiling)
+	Là mức giá tối đa mà chính phủ quy định, thấp hơn giá cân bằng.
+	Mục đích: bảo vệ người tiêu dùng (ví dụ: giá thuê nhà, giá điện, giá xăng…).
+	2. Giá sàn (Price floor)
+	Là mức giá tối thiểu mà chính phủ quy định, cao hơn giá cân bằng.
+	Mục đích: bảo vệ người sản xuất (ví dụ: giá lúa gạo, lương tối thiểu).
+	3. Kết luận chung
+	Giá trần → thiếu hụt
+	Giá sàn → dư thừa
+	Cả hai đều làm thị trường mất cân bằng tự nhiên
+	

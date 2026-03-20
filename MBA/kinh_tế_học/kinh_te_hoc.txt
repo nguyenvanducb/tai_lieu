@@ -1,0 +1,54 @@
+Chương 1:
+1. Trình bày khái niệm kinh tế học. Phân biệt kinh tế học vi mô và kinh tế học vĩ mô.
+2. Thế nào là nền kinh tế? Kể tên các thành viên kinh tế, họ có mục tiêu và hạn chế gì?
+3. Hãy trình bày ba vấn đề kinh tế cơ bản của các nền kinh tế. Các cơ chế kinh tế giải quyết ba vấn đề này như thế nào?
+4. Phân biệt kinh tế thực chứng và kinh tế chuẩn tắc. Cho ví dụ?
+5. Phương pháp nghiên cứu kinh tế học gồm những bước nào. Nêu nội dung cụ thể từng bước nghiên cứu.
+6. Phân biệt biến số danh nghĩa và biến số thực tế. Cho ví dụ?
+7. Khái niệm mô hình kinh tế? Các mô hình kinh tế có ưu và nhược điểm gì?
+8. Chi phí cơ hội là gì? Cho ví dụ minh họa.
+9. Trình bày quy luật chi phí cơ hội tăng dần và minh họa bằng đường giới hạn khả năng sản xuất.
+10. Trình bày nguyên tắc phân tích cận biên trong lựa chọn kinh tế.
+
+Chương 2:
+1. Phân biệt các khái niệm cầu, lượng cầu đối với hàng hoá.
+2. Trình bày các nhân tố ảnh hưởng đến cầu hàng hoá.
+3. Phân biệt các khái niệm cung, lượng cung đối với hàng hoá.
+4. Trình bày các nhân tố ảnh hưởng đến cung hàng hoá.
+5. Phân biệt sự thay đổi của cầu với sự thay đổi của lượng cầu.
+6. Phân biệt sự thay đổi của cung và sự thay đổi của lượng cung.
+7. Xác định cân bằng thị trường.
+8. Phân tích tác động của chính sách giá trần và giá sàn của chính phủ.
+9. Phân tích tác động của hạn ngạch nhập khẩu.
+10. Điều kiện áp dụng mô hình cung cầu.
+
+Chương 3:
+1. Trình bày khái niệm, công thức tính, đơn vị đo lợi ích, tổng lợi ích và lợi ích cận biên.
+2. Phân tích nội dung quy luật lợi ích cận biên giảm dần và ý nghĩa của nó trong việc phân tích hành vi người tiêu dùng. Cho ví dụ minh họa.
+3. Sử dụng quy luật lợi ích cận biên giảm dần giải thích đường cầu dốc xuống đối với phía phải và minh họa bằng đồ thị.
+4. Phân tích khái niệm, cách tính và minh họa bằng đồ thị khái niệm thặng dư tiêu dùng.
+5. Trình bày cách xác định đường cầu hàng hoá dốc xuống bằng Lý thuyết lợi ích đo được.
+6. Trình bày định nghĩa, cách tính, tính chất và minh họa bằng đồ thị các khái niệm: đường bàng quan và “bản đồ” các đường bàng quan.
+7. Trình bày khái niệm, công thức xác định, tính chất và minh họa bằng đồ thị đường ngân sách.
+8. Trình bày cách xác định kết hợp hàng hoá tối đa hoá lợi ích cho người tiêu dùng bằng Lý thuyết bàng quan - ngân sách.
+9. Trình bày cách xác định đường cầu hàng hoá dốc xuống bằng Lý thuyết bàng quan - ngân sách.
+10. Phân tích tác động của ảnh hưởng thay thế (SE) và ảnh hưởng thu nhập (IE) trong các trường hợp hàng hoá là thông thường và cấp thấp. Minh hoạ bằng đồ thị.
+11. Hãy sử dụng kiến thức về lý thuyết tiêu dùng để giải thích: khi giá hàng hoá X giảm, đường giá - tiêu dùng (trong không gian 2 hàng hoá) là đường dốc lên thì cầu về hàng hoá X là không co giãn.
+12. Hãy sử dụng kiến thức về lý thuyết tiêu dùng để giải thích: khi giá hàng hoá X giảm, đường giá - tiêu dùng (trong không gian 2 hàng hoá) là đường dốc xuống thì cầu về hàng hoá X là co giãn.
+13. Lý thuyết sở thích bộc lộ cho phép phân chia rõ ràng ảnh hưởng thay thế và ảnh hưởng thu nhập trong trường hợp nào? Tại sao?
+
+Chương 16:
+1. Hãy giải thích tại sao thu nhập của nền kinh tế lại đúng bằng chi tiêu của nền kinh tế?
+2. Tại sao giá trị sản lượng hay GDP bằng tổng thu nhập?
+3. Hãy phân biệt giữa chi mua sắm hàng hoá và dịch vụ của chính phủ với các khoản chuyển giao thu nhập?
+4. Một năm trước đây, khi bạn còn ở ngoại trú, gia đình bạn mua tặng một chiếc Honda sản xuất tại Vĩnh Phúc để bạn chủ động về thời gian đi lại đảm bảo đến lớp đúng giờ. Năm nay vào sống nội trú bạn bán chiếc xe Honda trên cho một người khác. Giao dịch trên của bạn có ảnh hưởng như thế nào tới GDP năm 2010?
+5. Tổng cục Thống kê tính toán GDP như thế nào?
+6. Hãy trình bày phương pháp tính GDP theo cách tiếp cận chi tiêu.
+7. Hãy giải thích phương pháp tính GDP theo cách tiếp cận thu nhập theo yếu tố.
+8. Hãy phân biệt chi tiêu về hàng hoá cuối cùng và chi tiêu về hàng hoá trung gian.
+9. Giá trị gia tăng là gì và nêu cách tính giá trị gia tăng.
+10. Hãy nêu cách tính chỉ số điều chỉnh GDP.
+11. Tại sao các nhà kinh tế dùng GDP thực chứ không dùng GDP danh nghĩa để đánh giá phúc lợi kinh tế? GDP thực có phải là một thước đo tốt để đo lường phúc lợi kinh tế không? Nếu không thì tại sao lại như vậy?
+12. Hãy cho biết cách tính chỉ số giá tiêu dùng (CPI).
+13. Giỏ hàng tiêu dùng được lựa chọn để xây dựng CPI như thế nào? Theo bạn thì giỏ hàng tiêu dùng của năm 2006 có giống với giỏ hàng năm 2009 không? Nếu không giống thì vì sao?
+14. Theo bạn CPI có phải là một thước đo tốt dùng để so sánh chi phí sinh hoạt ngày nay với chi phí sinh hoạt của năm 1986 không? Nếu không phải vậy thì vì sao?
