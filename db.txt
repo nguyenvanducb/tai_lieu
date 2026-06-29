@@ -40,3 +40,18 @@ android {
     
     // ... phần còn lại giữ nguyên
 }
+
+Trong Isar, Schema là phần mô tả cấu trúc của một collection để Isar biết cách lưu dữ liệu xuống database.
+để flutter pub run build_runner build -> .g.dart
+
+final isar = await Isar.open(
+  [
+    ConversationMessageSchema,
+    ConversationLetterSchema,
+  ],
+  directory: dir.path,
+); 
+Ý nghĩa là:
+"Database này sẽ có 2 collection:
+ConversationMessage
+ConversationLetter"
